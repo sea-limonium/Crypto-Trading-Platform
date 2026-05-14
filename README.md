@@ -1,4 +1,4 @@
-## Crypto Investment Platform
+## Crypto Trading Platform
 
 A simulated cryptocurrency and precious metals trading platform built with Python. Features a client-server architecture with socket communication, a modern GUI built with CustomTkinter, real-time price scraping, and persistent data storage with SQLite.
 
@@ -25,7 +25,7 @@ A simulated cryptocurrency and precious metals trading platform built with Pytho
 ### Project Structure
 
 ```
-Crypto_Investment_Platform/
+Crypto_Trading_Platform/
 ├── server.py          # Backend — handles auth, trades, DB, and price fetching
 ├── client.py          # Frontend — GUI, user interaction, sends requests to server
 └── crypto.db          # SQLite database (accounts, portfolio, transactions, assets, metals)
@@ -36,8 +36,8 @@ Crypto_Investment_Platform/
 1. Clone the repository or download and unzip the project folder.
 
 ```bash
-git clone https://github.com/yourusername/crypto-investment-platform.git
-cd crypto-investment-platform
+git clone https://github.com/sea-limonium/crypto-trading-platform.git
+cd crypto-trading-platform
 ```
 
 2. Install the required dependencies.
