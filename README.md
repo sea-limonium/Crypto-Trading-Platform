@@ -28,8 +28,7 @@ A simulated cryptocurrency and precious metals trading platform built with Pytho
 Crypto_Investment_Platform/
 ├── server.py          # Backend — handles auth, trades, DB, and price fetching
 ├── client.py          # Frontend — GUI, user interaction, sends requests to server
-├── crypto.db          # SQLite database (accounts, portfolio, transactions, assets, metals)
-└── images/            # GUI assets (if any)
+└── crypto.db          # SQLite database (accounts, portfolio, transactions, assets, metals)
 ```
 
 ### Installation & Setup
