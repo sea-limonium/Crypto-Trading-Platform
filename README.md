@@ -62,12 +62,12 @@ You should see the server listening for connections.
 python client.py
 ```
 
-The GUI login window will appear — create an account or log in to start trading.
+The GUI login window will appear. Create an account or log in to start trading.
 
 ### Stopping the Application
 
 - **Client:** Simply close the GUI window.
-- **Server:** Press `Ctrl + C` in the server terminal — the graceful shutdown handler will close the socket cleanly (exit code 0).
+- **Server:** Press `Ctrl + C` in the server terminal. The graceful shutdown handler will close the socket cleanly (exit code 0).
 
 ---
 
